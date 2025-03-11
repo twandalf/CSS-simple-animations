@@ -37,6 +37,11 @@ body {
 
   p {
     font-size: 1.3rem;
+
+    a {
+      text-decoration: none;
+      color: white;
+    }
   }
 }
 
@@ -55,10 +60,6 @@ body {
 
 #page-4 {
   background: var(--page-4-color);
-}
-
-a {
-  text-decoration: none;
 }
 
 .btn {
